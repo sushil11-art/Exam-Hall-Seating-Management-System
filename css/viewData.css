@@ -1,0 +1,82 @@
+*/{
+	font-family: cursive;
+}
+.title{
+			font-size: 20px;
+			float: left;
+			font-weight: bold;
+			margin-left: 300px;
+			margin-top: 10px;
+
+		}
+		.hr{
+			margin-top: 10px;
+			margin-left: 20px;
+			margin-right: 20px;
+			height: 3px;
+			background:navy;	
+		}
+
+		#customers {
+    	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    	border-collapse: collapse;
+    	width: 100%;
+		}
+		#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+		#customers tr:hover {background-color: #ddd;}
+
+
+		#customers th {
+    	padding-top: 12px;
+    	padding-bottom: 12px;
+    	text-align: left;
+    	background-color:linen;
+    	color: white;
+		}
+		.button{
+			float: right;
+			margin-right: 20px;
+			width: 100px;
+			height: 45px;
+			background-color:turquoise;
+			border-radius: 20px;
+		}
+/*----------------------------*/
+.backgr{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	height: 60px;
+	background-color:lightslategray;
+}
+.it{
+	float: left;
+	margin-left: 20px;
+	font-size: 20px;
+	background-color:ivory;
+	margin-top: 15px;
+	width: 300px;
+	font-family:cursive;
+}
+.ce{
+	float: left;
+	margin-left: 40px;
+	font-size: 20px;
+	background-color:royalblue;
+	margin-top: 15px;
+	width: 300px;
+	font-family:cursive;
+}
+.se{
+	float: left;
+	margin-left: 40px;
+	font-size: 20px;
+	background-color:tomato;
+	margin-top: 15px;
+	width: 300px;
+	font-family:cursive;
+}
+
+  
+/*///////////////////////////*/

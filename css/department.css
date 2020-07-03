@@ -1,0 +1,96 @@
+
+	  .hr{
+			margin-top: 10px;
+			margin-right: 20px;
+			height: 3px;
+			background: darkgreen;
+		}
+
+	.it{
+			border: 1px solid black;
+			background-color: teal;
+			width: 400px;
+			height: 35px;
+			text-align: center;
+			font-size: 20px;
+			color:ivory;
+			
+		}
+.a
+	{
+		text-decoration: none;
+	}
+
+		.com{
+			border: 1px dashed blue;
+			background-color:royalblue ;
+			width: 400px;
+			height: 35px;
+			text-align: center;
+			/* margin-left: 300px; */
+			font-size: 20px;
+			color:white;
+		}
+
+		.sof{
+			border:1px dotted purple;
+			background-color:tomato;
+			width: 400px;
+			height: 35px;
+			text-align: center;
+			/* margin-left: 600px; */
+			font-size: 20px;
+			color:white;
+	
+		}
+
+		.backgr{
+			background-color: transparent;
+			width: 1000px;
+			margin-left:360px;
+			margin-bottom: 10px;
+			margin-top: 10px;
+
+		}
+		.IT{
+			background-color: teal;
+			margin-left: 50px;
+			margin-right: 50px;	
+			
+			color:white;
+			font-family: fantasy;
+		}
+		.COMP{
+			background-color: royalblue;
+			margin-left: 50px;
+			margin-right: 50px;
+			color:white;
+			}
+		.SOFT{
+			background-color: tomato;
+			margin-left: 50px;
+			margin-right: 50px;
+			color:white;
+		}
+		.itborder{
+			margin-left: 50px;			
+			border: 1px solid lightgreen;
+			margin-left: 50px;
+			margin-right: 50px;
+		}
+		.compborder{
+			border: 1px solid gray;
+			margin-left: 50px;
+			margin-right: 50px;
+		}
+		.softborder{
+			border: 1px solid skyblue;
+			margin-left: 50px;
+			margin-right: 50px;
+		}
+
+		#lab{
+			margin-top: 20px;
+			margin-left: 150px;
+			font-size: 15px;
+		}

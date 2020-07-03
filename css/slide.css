@@ -1,0 +1,146 @@
+ 
+  .ul {
+    list-style-type: none;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+     position: fixed;
+    overflow: hidden;
+    background-color:cornflowerblue;
+    }
+
+    .li{
+     float: left;
+    }
+    .active {
+    background-color:whitesmoke;
+}
+
+    .a{
+      display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    }
+
+
+    .profile-img {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 10px;
+    margin-top: 20px;
+    margin-right: 20px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    float: right;
+   }
+
+   .un{
+        margin-left: 5px;
+        align-content: center;
+        color: white;
+
+   }
+
+   hr{
+    color: white;
+    margin-top: 10px;
+    height: 3px;
+
+   }
+
+   /*------click drop down ------------*/
+
+
+.dropbtn {
+    padding: 10px;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    color: white;
+
+    
+}
+
+.dropbtn:hover, .dropbtn:focus {
+    background-color: lightgray;
+    color: black;
+    width: 200px;
+    
+}
+
+
+.dropdown-content {
+    width: 100%;
+    font-size: 15px;
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 5px 9px;
+    text-decoration: none;
+    display: block;
+}
+
+.show {
+    display: block;
+    width: 220px;
+        }
+
+/*----------slide bar ---*/
+
+    #sidebar{
+        position: fixed;
+        width: 200px;
+        height: 100%;
+        background-color: #151719;
+
+        /*left: -200px;*/
+     /*transition: all 500ms linear;*/
+    }
+   /* .active{
+       left: -200px;
+        /*margin-left: 200px;*/
+     /* }*/ */
+
+
+     #sidebar ul li {
+            color: rgb(230,230,230,0.9);
+            list-style: none;
+            padding: 15px 10px;
+
+     }
+     .togglebtn{
+        position: absolute;
+        left: 10px;
+        top: 20px;
+     }
+
+    span{
+        display: block;
+        width: 30px;
+        height: 5px;
+        background: white;
+        margin: 2px 10px;
+
+     }
+/*-------------------------------------------*/
+
+
+         .start {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            }

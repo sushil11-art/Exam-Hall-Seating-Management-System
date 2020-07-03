@@ -1,0 +1,85 @@
+		
+	.border{
+    padding: 12px 20px;
+    margin-left:50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 200px;
+    border: 1px solid black ;
+    border-radius: 20px;
+    font-size: 20px;
+	}
+
+    .borderrow{
+    padding: 12px 20px;
+    margin-left:50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 1px solid black ;
+    border-radius: 20px;
+    font-size: 20px;
+  }
+
+    .space{
+    margin: 10px;
+    }
+
+    p{
+        margin-left: 200px;
+        font-size: 20px;
+
+    }
+
+    .table1{
+      width: 100%;
+     padding: 12px 20px;
+     font-size: 20px;
+     margin-left:50px;
+     margin-right: 200px;
+      }
+
+  .hr{
+      margin-top: 10px;
+      height: 3px;
+      background: darkgreen;
+    }
+
+  .td4{
+    width: 25%;
+  }
+  /*---------------------------*/
+ .table{
+            width: 800px;
+            margin-bottom: 10px;
+        }
+        .box{
+            float: left; 
+            width: 400px;
+            height: 45px;
+            border: 1px solid black;   
+            border-radius: 10px;
+        }
+        .seat{
+          border: 1px solid black ;
+         border-radius: 10px;
+             width: 900px;
+
+        }
+        .save{
+          float: right;
+          width: 100px;
+          height: 40px;
+          font-size: 15px ;
+          background-color: yellow;
+        }
+        .b{
+          border: 1px solid black;   
+            border-radius: 10px;
+        }
+        .td{
+          height: 40px;
+        }
+  /*///////////////////////*/
+  #dep1{
+    width:400px;
+  }
